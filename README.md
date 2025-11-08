@@ -139,13 +139,11 @@ Use the **Serial Monitor** at **9600 baud** to observe distance readings and sta
 
 ## 👨‍💻 Project Details
 
-| Detail | Description |
-|---------|-------------|
-| **Hardware Platform** | Arduino UNO R3 |
-| **Programming Language** | C++ (Arduino IDE) |
-| **Version** | 1.0 |
-| **Project Type** | Personal Academic Project |
-| **Repository Purpose** | Documentation and demonstration of embedded automation |
+- **Hardware Platform:** Arduino UNO R3  
+- **Programming Language:** C++ (Arduino IDE)  
+- **Version:** 1.0  
+- **Project Type:** Personal Academic Project  
+- **Repository Purpose:** Documentation and demonstration of embedded automation.  
 
 ---
 
